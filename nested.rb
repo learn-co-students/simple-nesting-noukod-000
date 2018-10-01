@@ -17,7 +17,7 @@ def hopper
      }
 
 end
-puts programmer_hash
+puts programmer_hash []
 def alan_kay_is_known_for
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
 
